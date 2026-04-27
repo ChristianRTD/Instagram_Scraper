@@ -1,11 +1,11 @@
 📘 Web Scraping de Perfiles de Instagram mediante Automatización con Playwright
-1. Introducción
+#1. Introducción
 
 En el contexto actual de la transformación digital, la extracción automatizada de información desde plataformas web se ha convertido en una técnica clave para el análisis de datos. Este proyecto presenta el desarrollo de un sistema de web scraping orientado a la obtención de información pública de perfiles de la red social Instagram.
 
 El enfoque propuesto utiliza herramientas de automatización que simulan el comportamiento humano en un navegador, permitiendo superar restricciones comunes como autenticación obligatoria o bloqueos por tráfico automatizado.
 
-2. Objetivos
+#2. Objetivos
 
 2.1 Objetivo general
 
