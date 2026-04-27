@@ -6,6 +6,7 @@ En el contexto actual de la transformación digital, la extracción automatizada
 El enfoque propuesto utiliza herramientas de automatización que simulan el comportamiento humano en un navegador, permitiendo superar restricciones comunes como autenticación obligatoria o bloqueos por tráfico automatizado.
 
 2. Objetivos
+
 2.1 Objetivo general
 
 Desarrollar un sistema de scraping automatizado capaz de extraer información relevante de perfiles de Instagram utilizando técnicas de simulación de navegador.
