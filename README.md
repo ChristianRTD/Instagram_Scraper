@@ -88,3 +88,7 @@ Complementar con almacenamiento en bases de datos
 Documentación oficial de Playwright
 Documentación de Python
 Plataforma Instagram
+
+## Diagrama de Flujo
+
+![Diagrama de Scraping](./images/Image.png)
