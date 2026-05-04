@@ -54,3 +54,5 @@ with sync_playwright() as p:
     print("Stats:", stats)
 
     browser.close()
+
+    ModuleNotFoundError
